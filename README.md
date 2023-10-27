@@ -8,7 +8,7 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
-![imagem](GIF.gif)
+![gif](gif/video.gif)
 
 ## 📝 Descrição
 Este projeto consiste em uma tela de cadastro, com preenchimento automatico no qual solicita:
