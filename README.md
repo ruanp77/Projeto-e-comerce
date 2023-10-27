@@ -50,8 +50,9 @@ Este projeto consiste em uma tela de cadastro, com preenchimento automatico no q
  
 ## 🔎 Fontes consultadas
 
-* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
-* [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Como escrever um README incrível
+* [O que é e-comerce](https://exame.com/invest/guia/o-que-e-e-commerce-red04/) 
+* [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
+
 
 ## 🙎🏽 Autores
 
